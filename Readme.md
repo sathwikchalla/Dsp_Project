@@ -23,8 +23,8 @@ pip install Flask mysql-connector-python Flask-Bcrypt
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/secure-database-service.git
-cd secure-database-service
+git clone https://github.com/meghnaa18/Class-of-Data-Security-and-Privacy-Fall-2023.git
+cd Class-of-Data-Security-and-Privacy-Fall-2023
 ```
 
 2. Create a virtual environment (optional but recommended):
@@ -91,9 +91,3 @@ Visit [http://localhost:5000](http://localhost:5000) in your web browser to acce
 - `templates`: HTML templates for the web pages.
 - `app.py`: Main Flask application file.
 - `requirements.txt`: Project dependencies.
-
-## Contributors
-
-- Your Name (your.email@example.com)
-
-Feel free to contribute to this project by opening issues or submitting pull requests.
